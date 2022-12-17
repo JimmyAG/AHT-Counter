@@ -1,1 +1,2 @@
 # AHT-Counter
+While I was working at Etisalat for Global Services EGS as a call center advisor, (Chat non-voice team) we had a certain Average Handling Time (AHT) required for each chat not to exceed, but unfortunately there was no meaningful way of measuring that on our own, so I created this tool in my spare time to help me keep track of all the AHT during the shift - I did most of the coding in a notepad since we were working on a virtual machine No IDE or other programs or websites allowed -
