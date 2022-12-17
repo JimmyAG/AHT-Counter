@@ -4,8 +4,8 @@ While I was working at Etisalat for Global Services EGS as a call center advisor
 I also created an index with all the webpages of the information center of the company packages and offers and information pages in order to spare my lazy self the search for those pages, each and every new page we learned in the training I copied its link and name and placed them in one notepad file in the following form:
 Page name - Link, Page name - link ... etc
 Then I found an online python interpreter website that wasn't blocked and then had python seperate the lines and add the Html tags for me in a loop and then print it out
-1. seperate each line on the commas to get multiple arrays of length 2
-2. add the tage <a> with the target being "blank" and then copied them all to the .htm file 
+1. seperate each line on the commas to get pairs of key (page name) and value (link).
+2. included both the key and value in the <a> tag both the name and link with the target being "blank" and then copied them all to the .htm file 
 3. utilized css to seperate them by category (Mobile prepaid / requests / postpaid, etc..)
 
-Unfortunately I currently does not have access to the files since I forgot to copy them before I leave the job
+Unfortunately I currently do not have access to the files since I forgot to copy them before I leave the job
